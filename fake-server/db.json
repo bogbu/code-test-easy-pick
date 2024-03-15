@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userId": "easypick1",
+      "userName": "이지픽",
+      "email": "easypick1@easypick.com",
+      "tel": "01012341234",
+      "birth": 980723,
+      "gender": "male",
+      "agreeTerms": true,
+      "country": "japan",
+      "userInterest": [
+        "programming",
+        "design"
+      ]
+    },
+    {
+      "id": 6245,
+      "userId": "test123",
+      "userName": "정성배",
+      "email": "test@test.com",
+      "tel": "01099959992",
+      "birth": 990119,
+      "gender": "female",
+      "agreeTerms": false,
+      "country": "korea",
+      "userInterest": [
+        "design",
+        "music"
+      ]
+    },
+    {
+      "id": 1576,
+      "userId": "yest123",
+      "userName": "유성은",
+      "email": "glu1234@gmail.com",
+      "tel": "00011110000",
+      "birth": 331199,
+      "gender": "female",
+      "agreeTerms": true,
+      "country": "",
+      "userInterest": [
+        "design"
+      ]
+    },
+    {
+      "id": 4931,
+      "userId": "asdasdasd",
+      "userName": "d",
+      "email": "as@naver.com",
+      "tel": "010-9999-5999",
+      "birth": 11111111,
+      "gender": "female",
+      "agreeTerms": true,
+      "country": "",
+      "userInterest": [
+        "music",
+        "design"
+      ]
+    }
+  ]
+}
